@@ -1,5 +1,5 @@
 # importing the Dataset
-
+#This file is related to Spam classification 
 import pandas as pd
 
 messages = pd.read_csv('smsspamcollection/SMSSpamCollection', sep='\t',
